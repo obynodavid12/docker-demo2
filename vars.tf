@@ -25,9 +25,4 @@ variable "ECS_AMIS" {
 
 # Full List: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html
 
-~                                                                 
-~                                                                 
-~                                                                 
-~                                                                 
-~                                                                 
-~           
+           
