@@ -27,3 +27,4 @@ resource "aws_autoscaling_group" "ecs-example-autoscaling" {
     value               = "ecs-ec2-container"
     propagate_at_launch = true
   }
+}
